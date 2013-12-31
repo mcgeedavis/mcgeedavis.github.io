@@ -3,10 +3,14 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2013-12-29 05:11:25
 categories: jekyll update
+author: trey
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+
+When , there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Jekyll also offers powerful support for code snippets:
 
