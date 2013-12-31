@@ -9,9 +9,9 @@ title: Your New Jekyll Site
     <div>
 		<div class="author-{{ post.author }}"></div>
 	    <div class="post">
-	    	<span class="title">{{ post.title }}</span>
-	    	<span class="date">{{ post.date | date_to_string }}</span>
-	    	<p>{{ post.content }}</p>
+	    	<div class="title">{{ post.title }}</div>
+	    	<div class="date">{{ post.date | date_to_string }}</div>
+	    	<div class="content">{{ post.content }}</div>
 	    </div>
     </div>
     {% endfor %}

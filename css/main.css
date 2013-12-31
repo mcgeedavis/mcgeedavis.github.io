@@ -82,11 +82,20 @@ a:visited {  }
 .title {
   font-weight: 900;
   font-size: 24pt;
+  width: 80%;
+  float: left;
+  line-height: 1.1em;
+  margin-bottom: 0.5em;
 }
 
 .date {
   float: right;
   line-height: 24pt;
+  float: right;
+}
+
+.content {
+  clear: both;
 }
 
 .posts {
