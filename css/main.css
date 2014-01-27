@@ -173,6 +173,10 @@ a:visited {  }
 /*
 /*****************************************************************************/
 
+.post-container {
+  margin-bottom: -2em;
+}
+
 /* standard */
 .post pre {
   padding: 8pt 11pt 3pt 11pt;
